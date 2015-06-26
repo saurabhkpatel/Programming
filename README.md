@@ -1,4 +1,6 @@
 # Programming
+
+[![Join the chat at https://gitter.im/saurabhkpatel/Programming](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/saurabhkpatel/Programming?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This repository includes programming assignments and sample coding program.
 
 1) Python :
